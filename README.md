@@ -18,4 +18,4 @@ I tackle the problem this system creates by creating a mathematical model of the
 <br>
 <br>
 <br>
-Those methods are all complementary, allowing for a very effective while still cheap system.
+Those methods are all complementary, allowing for a very effective but still cheap system that is usable as a way to help judges during sports games.
